@@ -1,6 +1,6 @@
 # Inventory Management System
 
-The Inventory Management System is a simple Java-based application that allows users to manage an inventory of products.It makes use of the Swing framework for creating the graphical user interface (GUI). It provides functionalities such as adding new products, updating existing products, removing products, and checking the availability of products.
+The Inventory Management System is a simple **Java-based** application that allows users to manage an inventory of products.It makes use of the **Swing framework** for creating the **graphical user interface (GUI)**. It provides functionalities such as adding new products, updating existing products, removing products, and checking the availability of products.
 
 ## Features
 
@@ -10,6 +10,10 @@ The Inventory Management System is a simple Java-based application that allows u
 - Check product availability: Users can search for a product by its name and view its details, including price and quantity.
 
 ## Demo
+
+
+https://github.com/amelia2802/inventory-management/assets/49182604/35eecb97-958c-4bed-bdff-6c9e97a0d279
+
 
 ### Running the Program
 
