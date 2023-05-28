@@ -46,3 +46,6 @@ https://github.com/amelia2802/inventory-management/assets/49182604/35eecb97-958c
 5. Follow the on-screen instructions and provide the necessary information to perform the chosen operation.
 
 6. Repeat steps 4 and 5 for additional operations if desired.
+
+### Resources:
+- Programming with Java - E Balagurusamy
